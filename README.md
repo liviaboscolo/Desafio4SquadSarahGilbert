@@ -8,7 +8,7 @@
 O desafio de listas, tuplas e dicionários apresenta um total de 6 questões.
 <br/>
 <br/>
-Até a questão de número 6, cada participante assumiu 1 questão, e as duas que sobraram foram redivididas levando em consideração os outros desafios também, garantindo uma participação equitativa e aprofundamento em todos os temas.
+Até a questão de número 6, cada participante assumiu 1 questão.
 <br/>
 <br/>
 Com o auxílio do Trello, Git, GitHub, e do canal do Discord do squad, conseguimos trabalhar de forma colaborativa, otimizando o processo de desenvolvimento e aprendizado.
